@@ -2,7 +2,9 @@ body{
   background-color:#EAF6F6;
 
 }
-
+.iim {
+  border-radius: 100%;
+}
 h1{
 color:#66BFBF
 }
